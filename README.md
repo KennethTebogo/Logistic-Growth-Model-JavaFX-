@@ -29,7 +29,7 @@ sudo apt install openjfx
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/logistic-growth-java.git
+git clone https://github.com/KennethTebogo/logistic-growth-java.git
 cd logistic-growth-java
 ```
 
